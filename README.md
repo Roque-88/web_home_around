@@ -20,3 +20,5 @@ Control de versiones: GitHub
 Lenguajes: HTML5, CSS (con uso de Flexbox), JavaScript
 
 # El enlace a GitHub Pages
+
+https://roque-88.github.io/web_home_around/
