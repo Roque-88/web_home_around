@@ -312,42 +312,17 @@
   }
 }
 
-@media screen and (max-width: 480px) {
-  .popup__input_card-title {
-    border: none;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
-    max-width: 320px;
-    width: 100%;
-  }
-
-  .popup__input_card-url {
-    border: none;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
-    max-width: 320px;
-    width: 100%;
-  }
-
+@media screen and (max-width: 460px) {
   .popup__input {
     max-width: 320px;
+    width: 100%;
+    border: none;
   }
 }
-
 @media screen and (max-width: 320px) {
-  .popup__input_card-title {
-    border: none;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
-    max-width: 300px;
-    width: 100%;
-  }
-
-  .popup__input_card-url {
-    border: none;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
-    max-width: 300px;
-    width: 100%;
-  }
-
   .popup__input {
-    max-width: 300px;
+    max-width: 282px;
+    width: 85%;
+    border: none;
   }
 }
